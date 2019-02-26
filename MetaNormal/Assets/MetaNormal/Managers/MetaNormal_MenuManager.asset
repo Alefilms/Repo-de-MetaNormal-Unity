@@ -732,7 +732,7 @@ MonoBehaviour:
   ID: 0
   isEditing: 0
   title: Look
-  slotSize: {x: 4.4198895, y: 7.8624077}
+  slotSize: {x: 4.2609854, y: 7.582938}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -756,10 +756,10 @@ MonoBehaviour:
   linkedUiID: 15193404
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 64
-    width: 31.999998
-    height: 32
+    x: 136
+    y: 0
+    width: 32
+    height: 31.999998
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -3098,8 +3098,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 246.15999
-    height: 48.840004
+    width: 255.34001
+    height: 50.64
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5166,11 +5166,11 @@ MonoBehaviour:
   rectTransformID: 87948
   uiTransitionType: 1
   uiPositionType: 1
-  isEditing: 1
+  isEditing: 0
   isLocked: 0
   id: 11
   title: Hotspot
-  manualSize: {x: 34, y: 12.000001}
+  manualSize: {x: 34, y: 12}
   positionType: 3
   manualPosition: {x: 50, y: 44.4}
   positionSmoothing: 0
@@ -5240,13 +5240,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 246.15999, y: 48.840004}
+  biggestElementSize: {x: 255.34001, y: 50.64}
   rect:
     serializedVersion: 2
-    x: 238.92001
-    y: 156.28801
-    width: 246.15999
-    height: 48.840004
+    x: 247.82999
+    y: 162.048
+    width: 255.34001
+    height: 50.64
   showInFilter: 1
 --- !u!114 &114896798569118832
 MonoBehaviour:
@@ -5267,13 +5267,13 @@ MonoBehaviour:
   rectTransformID: 15198304
   uiTransitionType: 1
   uiPositionType: 2
-  isEditing: 0
+  isEditing: 1
   isLocked: 0
   id: 6
   title: Interaction
-  manualSize: {x: 4.4198895, y: 29.587223}
+  manualSize: {x: 22.370173, y: 7.5829377}
   positionType: 4
-  manualPosition: {x: 48, y: 50}
+  manualPosition: {x: 50, y: 40.7}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -5311,7 +5311,7 @@ MonoBehaviour:
   spacing: 0
   sizeType: 0
   autoSizeEveryFrame: 0
-  orientation: 1
+  orientation: 0
   transitionType: 0
   panDirection: 0
   panMovement: 1
@@ -5347,13 +5347,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 31.999998, y: 120.42}
+  biggestElementSize: {x: 168, y: 31.999998}
   rect:
     serializedVersion: 2
-    x: 331.52
-    y: 143.29001
-    width: 31.999998
-    height: 120.42
+    x: 291.5
+    y: 155.754
+    width: 168
+    height: 31.999998
   showInFilter: 1
 --- !u!114 &114910522574622642
 MonoBehaviour:
@@ -5368,9 +5368,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 3
-  isEditing: 1
+  isEditing: 0
   title: Talk
-  slotSize: {x: 4.4198895, y: 7.8624077}
+  slotSize: {x: 4.2609854, y: 7.582938}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -5394,10 +5394,10 @@ MonoBehaviour:
   linkedUiID: 15191042
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 32
-    width: 31.999998
-    height: 32
+    x: 104.00001
+    y: 0
+    width: 32
+    height: 31.999998
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -5769,9 +5769,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 1
-  isEditing: 0
+  isEditing: 1
   title: Use
-  slotSize: {x: 4.4198895, y: 7.8624077}
+  slotSize: {x: 13.848203, y: 6.398104}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -5797,8 +5797,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 31.999998
-    height: 32
+    width: 104.00001
+    height: 26.999998
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -6090,10 +6090,10 @@ MonoBehaviour:
   linkedUiID: 0
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 96
+    x: 168
+    y: 0
     width: 0
-    height: 24.420002
+    height: 25.32
   relativePosition: {x: 0, y: 0}
   numSlots: 0
   uiSlots:
