@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17e62d8d078be49cf8ad9ebe2efcaeb2, type: 3}
   m_Name: MetaNormal_SpeechManager
   m_EditorClassIdentifier: 
-  scrollSubtitles: 0
+  scrollSubtitles: 1
   scrollNarration: 0
   textScrollSpeed: 50
   textScrollCLip: {fileID: 0}
@@ -23,8 +23,8 @@ MonoBehaviour:
   playAnimationForever: 1
   canSkipWithMouseClicks: 1
   minimumDisplayTime: 1
-  screenTimeFactor: 0.1
-  allowSpeechSkipping: 0
+  screenTimeFactor: 0.3
+  allowSpeechSkipping: 1
   allowGameplaySpeechSkipping: 0
   skipThresholdTime: 0
   endScrollBeforeSkip: 0

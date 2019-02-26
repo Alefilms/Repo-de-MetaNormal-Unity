@@ -174,7 +174,7 @@ MonoBehaviour:
   speechLabel: 
   lineID: -1
   displayLineID: -1
-  speechColor: {r: 1, g: 1, b: 1, a: 1}
+  speechColor: {r: 0, g: 0, b: 0, a: 1}
   portraitIcon:
     texture: {fileID: 0}
     isAnimated: 0
@@ -233,7 +233,7 @@ MonoBehaviour:
   rotateSprite3D: 0
   idleAnimSprite: Ale_idle
   walkAnimSprite: Ale_walk
-  runAnimSprite: run
+  runAnimSprite: 
   talkAnimSprite: Ale_talk
   lockScale: 0
   spriteScale: 1
@@ -247,7 +247,7 @@ MonoBehaviour:
   flipCustomAnims: 1
   angleSnapping: 0
   walkSpeedScale: 4
-  runSpeedScale: 6
+  runSpeedScale: 4
   reverseSpeedFactor: 1
   turnSpeed: 7
   acceleration: 6
@@ -511,7 +511,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 2a79635f3ecf5ef45b7d0f8f5d1873a5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

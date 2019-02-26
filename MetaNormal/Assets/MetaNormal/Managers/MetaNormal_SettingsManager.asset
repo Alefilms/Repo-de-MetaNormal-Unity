@@ -27,7 +27,8 @@ MonoBehaviour:
   playerSwitching: 0
   player: {fileID: 0}
   players:
-  - playerOb: {fileID: 0}
+  - playerOb: {fileID: 1555583793512248485, guid: b6176dad6afca644391d7c1687672e39,
+      type: 3}
     ID: 0
     isDefault: 1
   movementMethod: 0

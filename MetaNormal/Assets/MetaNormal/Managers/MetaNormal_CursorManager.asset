@@ -45,7 +45,7 @@ MonoBehaviour:
     frameSpeeds: []
     alwaysAnimate: 0
   pointerIcon:
-    texture: {fileID: 2800000, guid: a30feae3af0aa4e4899fd65a1ef51c2c, type: 3}
+    texture: {fileID: 2800000, guid: 2026e7725cbf9654f9a8645f72b1946e, type: 3}
     isAnimated: 0
     numFrames: 1
     numRows: 1
@@ -102,7 +102,7 @@ MonoBehaviour:
     numFrames: 3
     numRows: 1
     numCols: 3
-    size: 0
+    size: 0.05
     animSpeed: 3
     endAnimOnLastFrame: 0
     skipFirstFrameWhenLooping: 0
@@ -116,13 +116,13 @@ MonoBehaviour:
     label: Use
     lineID: -1
     id: 0
-  - texture: {fileID: 2800000, guid: f03835de3da7f442f92582f0dd5e5863, type: 3}
-    isAnimated: 0
-    numFrames: 1
+  - texture: {fileID: 2800000, guid: 5e7120bcfe6766246ae2d8fd09f73c05, type: 3}
+    isAnimated: 1
+    numFrames: 3
     numRows: 1
-    numCols: 1
+    numCols: 3
     size: 0.05
-    animSpeed: 4
+    animSpeed: 3
     endAnimOnLastFrame: 0
     skipFirstFrameWhenLooping: 0
     clickOffset: {x: 0, y: 0}
@@ -132,13 +132,13 @@ MonoBehaviour:
     label: Talk to
     lineID: -1
     id: 1
-  - texture: {fileID: 2800000, guid: e0394f989f329496584e377a81d4031f, type: 3}
-    isAnimated: 0
-    numFrames: 1
+  - texture: {fileID: 2800000, guid: 13ff24f9a0e35114aa249d8e05f4fa6a, type: 3}
+    isAnimated: 1
+    numFrames: 3
     numRows: 1
-    numCols: 1
+    numCols: 3
     size: 0.05
-    animSpeed: 4
+    animSpeed: 3
     endAnimOnLastFrame: 0
     skipFirstFrameWhenLooping: 0
     clickOffset: {x: 0, y: 0}
@@ -148,7 +148,78 @@ MonoBehaviour:
     label: Look at
     lineID: -1
     id: 2
+  - texture: {fileID: 2800000, guid: 558b03a2d69a5884eb3288b884dd397a, type: 3}
+    isAnimated: 1
+    numFrames: 3
+    numRows: 3
+    numCols: 1
+    size: 0.05
+    animSpeed: 3
+    endAnimOnLastFrame: 0
+    skipFirstFrameWhenLooping: 0
+    clickOffset: {x: 0, y: 0}
+    frameSpeeds:
+    - 1
+    - 1
+    - 1
+    alwaysAnimate: 0
+    dontCycle: 0
+    label: Flecha Derecha
+    lineID: -1
+    id: 3
+  - texture: {fileID: 2800000, guid: ecae2adfdd21bd44a84ca66a15170e05, type: 3}
+    isAnimated: 1
+    numFrames: 3
+    numRows: 3
+    numCols: 1
+    size: 0.05
+    animSpeed: 3
+    endAnimOnLastFrame: 0
+    skipFirstFrameWhenLooping: 0
+    clickOffset: {x: 0, y: 0}
+    frameSpeeds: []
+    alwaysAnimate: 0
+    dontCycle: 0
+    label: Flecha Izquierda
+    lineID: -1
+    id: 4
+  - texture: {fileID: 2800000, guid: 640e26c40cd2d2d428024f45f37e8280, type: 3}
+    isAnimated: 1
+    numFrames: 3
+    numRows: 1
+    numCols: 3
+    size: 0.05
+    animSpeed: 3
+    endAnimOnLastFrame: 0
+    skipFirstFrameWhenLooping: 0
+    clickOffset: {x: 0, y: 0}
+    frameSpeeds: []
+    alwaysAnimate: 0
+    dontCycle: 0
+    label: Flecha Arriba
+    lineID: -1
+    id: 5
+  - texture: {fileID: 2800000, guid: 542881a9f2d1f4a42b10fc3de100de32, type: 3}
+    isAnimated: 1
+    numFrames: 3
+    numRows: 1
+    numCols: 3
+    size: 0.05
+    animSpeed: 3
+    endAnimOnLastFrame: 0
+    skipFirstFrameWhenLooping: 0
+    clickOffset: {x: 0, y: 0}
+    frameSpeeds: []
+    alwaysAnimate: 0
+    dontCycle: 0
+    label: Flecha Abajo
+    lineID: -1
+    id: 6
   unhandledCursorInteractions:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}

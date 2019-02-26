@@ -732,7 +732,7 @@ MonoBehaviour:
   ID: 0
   isEditing: 0
   title: Look
-  slotSize: {x: 4.2609854, y: 7.582938}
+  slotSize: {x: 13.848203, y: 6.398104}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -748,7 +748,7 @@ MonoBehaviour:
   gridWidth: 3
   backgroundTexture: {fileID: 0}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
+  highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
   clickSound: {fileID: 0}
   changeCursor: 0
@@ -756,10 +756,10 @@ MonoBehaviour:
   linkedUiID: 15193404
   relativeRect:
     serializedVersion: 2
-    x: 136
-    y: 0
-    width: 32
-    height: 31.999998
+    x: 0
+    y: 53.999996
+    width: 104.00001
+    height: 26.999998
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -5171,7 +5171,7 @@ MonoBehaviour:
   id: 11
   title: Hotspot
   manualSize: {x: 34, y: 12}
-  positionType: 3
+  positionType: 5
   manualPosition: {x: 50, y: 44.4}
   positionSmoothing: 0
   alignment: 0
@@ -5207,7 +5207,7 @@ MonoBehaviour:
   orientation: 1
   transitionType: 0
   panDirection: 0
-  panMovement: 0
+  panMovement: 1
   timeCurve:
     serializedVersion: 2
     m_Curve:
@@ -5233,7 +5233,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   panDistance: 0.5
-  fadeSpeed: 0.1
+  fadeSpeed: 0.5
   zoomAnchor: 4
   zoomElements: 0
   oneMenuPerSpeech: 0
@@ -5267,13 +5267,13 @@ MonoBehaviour:
   rectTransformID: 15198304
   uiTransitionType: 1
   uiPositionType: 2
-  isEditing: 1
+  isEditing: 0
   isLocked: 0
   id: 6
   title: Interaction
-  manualSize: {x: 22.370173, y: 7.5829377}
+  manualSize: {x: 13.848204, y: 25.194311}
   positionType: 4
-  manualPosition: {x: 50, y: 40.7}
+  manualPosition: {x: 55, y: 50}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -5311,7 +5311,7 @@ MonoBehaviour:
   spacing: 0
   sizeType: 0
   autoSizeEveryFrame: 0
-  orientation: 0
+  orientation: 1
   transitionType: 0
   panDirection: 0
   panMovement: 1
@@ -5347,13 +5347,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 168, y: 31.999998}
+  biggestElementSize: {x: 104.00001, y: 106.31999}
   rect:
     serializedVersion: 2
-    x: 291.5
-    y: 155.754
-    width: 168
-    height: 31.999998
+    x: 361.05002
+    y: 157.84
+    width: 104.00001
+    height: 106.31999
   showInFilter: 1
 --- !u!114 &114910522574622642
 MonoBehaviour:
@@ -5368,9 +5368,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 3
-  isEditing: 0
+  isEditing: 1
   title: Talk
-  slotSize: {x: 4.2609854, y: 7.582938}
+  slotSize: {x: 13.848203, y: 6.398104}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -5386,7 +5386,7 @@ MonoBehaviour:
   gridWidth: 3
   backgroundTexture: {fileID: 0}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
+  highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
   clickSound: {fileID: 0}
   changeCursor: 0
@@ -5394,10 +5394,10 @@ MonoBehaviour:
   linkedUiID: 15191042
   relativeRect:
     serializedVersion: 2
-    x: 104.00001
-    y: 0
-    width: 32
-    height: 31.999998
+    x: 0
+    y: 26.999998
+    width: 104.00001
+    height: 26.999998
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -5604,7 +5604,7 @@ MonoBehaviour:
   rectTransformID: 14532472
   uiTransitionType: 1
   uiPositionType: 0
-  isEditing: 0
+  isEditing: 1
   isLocked: 0
   id: 9
   title: Subtitles
@@ -5769,7 +5769,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 1
-  isEditing: 1
+  isEditing: 0
   title: Use
   slotSize: {x: 13.848203, y: 6.398104}
   sizeType: 0
@@ -6090,8 +6090,8 @@ MonoBehaviour:
   linkedUiID: 0
   relativeRect:
     serializedVersion: 2
-    x: 168
-    y: 0
+    x: 0
+    y: 80.99999
     width: 0
     height: 25.32
   relativePosition: {x: 0, y: 0}
