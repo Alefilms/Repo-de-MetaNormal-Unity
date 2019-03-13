@@ -279,7 +279,8 @@ MonoBehaviour:
   jumpParameter: Jump
   ID: 0
   hotspotDetector: {fileID: 0}
-  associatedNPCPrefab: {fileID: 0}
+  associatedNPCPrefab: {fileID: 7316762874150041191, guid: f40a6ba0347c1614db535e76da4fbe67,
+    type: 3}
 --- !u!58 &2631555277624744653
 CircleCollider2D:
   m_ObjectHideFlags: 0

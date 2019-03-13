@@ -31,6 +31,10 @@ MonoBehaviour:
       type: 3}
     ID: 0
     isDefault: 1
+  - playerOb: {fileID: 1681997164493296359, guid: 4516cd9baa71b0a4584dbdc3f085dc46,
+      type: 3}
+    ID: 1
+    isDefault: 0
   movementMethod: 0
   inputMethod: 0
   interactionMethod: 2
